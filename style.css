@@ -44,11 +44,10 @@ nav {
 }
 
 .vertical {
-    margin-top: 2.2vmin;
     margin-left: 1vmin;
     width: 1vmin;
     border-left: 0.3vmin solid white;
-    height: 3vmin;
+    height: 4vmin;
 }
 
 .carousel-inner {
